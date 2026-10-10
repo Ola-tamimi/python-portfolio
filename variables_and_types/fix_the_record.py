@@ -12,3 +12,4 @@ print("Device:", device_name)
 print("Backup IP:", second_ip)
 print("Type:", class_)
 print("Port:", port)
+# Python reports Syntax Errors first because it checks the code syntax before execution. Runtime Errors appear during execution.
